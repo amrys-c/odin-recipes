@@ -1,0 +1,56 @@
+#page1{background-color: pink;
+     font-family: "Chalkduster", fantasy;
+}
+
+h1{color: purple;
+   text-align: center;
+   font-weight: 800;
+}
+
+.melon{width: 100px;
+       height: auto;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       border: 5px solid black;
+}
+
+#page2{background-color: lightgreen;
+       font-family: "American Typewriter", serif;
+}
+
+.meatloaf{width: 400px;
+          height: auto;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          border: 5px solid black;
+}
+
+.cupcakes{color:crimson;
+          text-align: center;
+          font-weight: 800;
+}
+
+.plate{color: crimson;
+       text-align: center;
+       font-style: italic;
+       font-weight: 800;
+       font-size: xx-small;
+}
+
+.steps{color:crimson;
+       text-align: center;
+       font-weight: 800;
+       font-size: large;
+}
+
+.steps1{color: crimson;
+        font-weight: 800;
+        font-size: large;
+}
+
+.glaze{color: ghostwhite;
+       font-weight: 800;
+       font-size: medium;
+}
